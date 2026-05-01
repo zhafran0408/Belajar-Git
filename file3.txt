@@ -1,5 +1,1 @@
-halo ini file 3
-<<<<<<< HEAD
-=======
-coba ganti yaaa
->>>>>>> parent of 553e44c (Commit file3.txt ke Repository)
+isi file 3
