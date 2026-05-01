@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 halo cara menambahkan file di git.
+=======
+halo cara menambahkan file di git.Perubahan baru
+test lagi yaaa
+>>>>>>> parent of 8aebef6 (Ini commit yang salah)
