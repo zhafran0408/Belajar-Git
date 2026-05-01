@@ -1,3 +1,7 @@
+git add file1.txt file3.txt
 
 Perubahan dari Agit add file1.txt
 Perubahan dari B
+
+isi file 1
+
