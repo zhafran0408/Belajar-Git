@@ -1,3 +1,4 @@
 
 Perubahan dari Agit add file1.txt
 Perubahan dari B
+Update file 1 di C
