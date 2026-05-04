@@ -1,2 +1,1 @@
-isi file 1
-haloo
+Ini konten fitur 1
