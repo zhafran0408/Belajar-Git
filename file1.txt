@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Perubahan dari A
-=======
+
+Perubahan dari Agit add file1.txt
 Perubahan dari B
->>>>>>> feature/b
