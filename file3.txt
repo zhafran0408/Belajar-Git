@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-File 3 baru
-=======
-halo ini file 3
-<<<<<<< HEAD
-=======
-coba ganti yaaa
->>>>>>> parent of 553e44c (Commit file3.txt ke Repository)
->>>>>>> f25604f (Menambah file1.txt)
+Isi file 3 dari branch feature
