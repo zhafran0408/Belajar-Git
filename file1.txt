@@ -5,3 +5,4 @@ Perubahan dari B
 
 isi file 1
 
+Fitur baru D di file1
