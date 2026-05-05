@@ -1,1 +1,1 @@
-Versi 1.0.1 - Fix typo di menu
+Versi 1.0.2 - Tambah fitur Dark Mode
