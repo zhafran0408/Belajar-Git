@@ -1,1 +1,1 @@
-Versi 1.0.0 - Launching!
+Versi 1.0.1 - Fix typo di menu
