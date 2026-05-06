@@ -1,1 +1,1 @@
-Isi file 2 dari branch feature
+Fitur bagian 2
